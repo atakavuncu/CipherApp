@@ -1,2 +1,2 @@
 # CipherApp
- CipherApp uygulaması, şifreleme ve şifre çözme işlemleri için kullanılan bir USB bellek uygulamasıdır. 
+ CipherApp uygulaması, şifreleme ve şifre çözme işlemleri için kullanılan bir USB bellek uygulamasıdır. Temel yapısı itibariyle, cihazda yer alan bir metin belgesini (.txt) şifreleyebilen veya CipherApp kullanılarak şifrelenmiş metin belgesini çözebilen bir güvenlik uygulamasıdır. Bu uygulama USB belleklerin içine kurularak aslında USB belleği, şifrelenmiş metin belgesini okumak için gerekli bir anahtar haline getiriyor.
