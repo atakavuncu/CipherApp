@@ -4,7 +4,7 @@
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/9nqg98z.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/9mdawgn.png)![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/9ohv5x4.png)![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/aa85mxu.png)
 
 
 ## Kullanımı
